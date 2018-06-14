@@ -1,0 +1,49 @@
+{
+  "array": [
+    {
+
+      "snippet": {
+        "publishedAt": "2016-05-06T18:44:17.000Z",
+        "channelId": "UCXT5MpIBGdIXF2RPbuJjf2w",
+        "title": "أمونة المزيونة ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/llD5ZE2M99I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/llD5ZE2M99I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/llD5ZE2M99I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/llD5ZE2M99I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Badr Hogan",
+        "playlistId": "PLEhWzrmWDArXeAWaZLQdOokyzuWkDbc_e",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GLo9gJ5ToKE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "llD5ZE2M99I",
+        "videoPublishedAt": "2016-04-30T19:06:14.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ]
+}
