@@ -1,0 +1,1336 @@
+{
+  "array": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/hKSZdBQsD7gQ8cqV7xwgjuxxgGM\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLnNILWxwV21KYUhR",
+      "snippet": {
+        "publishedAt": "2017-12-09T10:30:01.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "الجثة تخرج من القبر لتخنق النمس , باب الحارة",
+        "description": "دراما إجتماعية، تستكمل تصاعد الوتيرة الدرامية من النقطة التي توقفت عندها في الحلقة الأخيرة من الجزء الثالث، حين حاصر الفرنسيون حارة الضبع وتأهبوا لقصفها بالمدفعية واقتحامها.وتتصاعد الأحداث بعد أن تصدر القوات الفرنسية أمرا بإعتقال أبو شهاب عقيد الحارة مما يجعله يقرر الهرب، لينتقل للعيش مع الثوار ويشارك في تزويدهم بالسلاح ومساعدة فلسطين لمواجهة الإنجليزي .",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sH-lpWmJaHQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sH-lpWmJaHQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sH-lpWmJaHQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sH-lpWmJaHQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sH-lpWmJaHQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sH-lpWmJaHQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sH-lpWmJaHQ",
+        "videoPublishedAt": "2017-12-09T10:30:01.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/G5-1XlCnpqmCzQIQlYdp4Dj8tC4\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLmRCQ0k5WE5oNkp3",
+      "snippet": {
+        "publishedAt": "2017-06-20T00:36:26.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "مشهد موت النمس في باب الحارة",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dBCI9XNh6Jw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dBCI9XNh6Jw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dBCI9XNh6Jw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dBCI9XNh6Jw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dBCI9XNh6Jw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dBCI9XNh6Jw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dBCI9XNh6Jw",
+        "videoPublishedAt": "2017-06-20T00:36:26.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/IC9kSxiUnvkZtBSCaDtf2FRh_2I\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLmZ5V1QtYmZXQ2pZ",
+      "snippet": {
+        "publishedAt": "2017-06-12T23:13:46.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "وفاة أبو جودت... النمس",
+        "description": "باب_الحارة_الجزء_التاسع \nالنمس…\nوفاة أبو جودت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fyWT-bfWCjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fyWT-bfWCjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fyWT-bfWCjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fyWT-bfWCjY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fyWT-bfWCjY",
+        "videoPublishedAt": "2017-06-12T23:13:46.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/eQuzIOsfTeu1ySX5ah2PoAuqLJk\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLkk2bGV6SHdQaE5z",
+      "snippet": {
+        "publishedAt": "2017-12-05T13:55:21.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "شاهد كيف يتسلق النمس  باب دكان أبو النار ليتأكد من وجوده",
+        "description": "دراما إجتماعية، تستكمل تصاعد الوتيرة الدرامية من النقطة التي توقفت عندها في الحلقة الأخيرة من الجزء الثالث، حين حاصر الفرنسيون حارة الضبع وتأهبوا لقصفها بالمدفعية واقتحامها.وتتصاعد الأحداث بعد أن تصدر القوات الفرنسية أمرا بإعتقال أبو شهاب عقيد الحارة مما يجعله يقرر الهرب، لينتقل للعيش مع الثوار ويشارك في تزويدهم بالسلاح ومساعدة فلسطين لمواجهة الإنجليزي .",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I6lezHwPhNs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I6lezHwPhNs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I6lezHwPhNs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I6lezHwPhNs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I6lezHwPhNs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I6lezHwPhNs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "I6lezHwPhNs",
+        "videoPublishedAt": "2017-12-05T13:55:21.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/A3bEqDfhqv01Sv1lUGJHIbPuiVg\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLm1TZmFNWFJqSUhn",
+      "snippet": {
+        "publishedAt": "2017-06-13T00:19:09.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "النمس يحاول التحدث مع حمار",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mSfaMXRjIHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mSfaMXRjIHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mSfaMXRjIHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mSfaMXRjIHg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mSfaMXRjIHg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mSfaMXRjIHg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mSfaMXRjIHg",
+        "videoPublishedAt": "2017-06-13T00:19:09.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/9Xtng4O4wCJNVmdRUQF9tt3oTP0\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLkMwOUN1V0tpaU1z",
+      "snippet": {
+        "publishedAt": "2017-12-23T22:51:26.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "مباراة بالأمثال والحكم  بين النمس وأبو مرزوق ههههه مسلسل باب الحارة",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C09CuWKiiMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C09CuWKiiMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C09CuWKiiMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C09CuWKiiMs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C09CuWKiiMs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C09CuWKiiMs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "C09CuWKiiMs",
+        "videoPublishedAt": "2017-12-23T22:51:26.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/wq1FZB0_8l5VaG2eSwTgVhUDNH4\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLmwtdURtRFdGNnNJ",
+      "snippet": {
+        "publishedAt": "2018-05-19T09:00:04.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "أبو الحكم وتنكة يكذبون على النمس , باب الحارة",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l-uDmDWF6sI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l-uDmDWF6sI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l-uDmDWF6sI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l-uDmDWF6sI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l-uDmDWF6sI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l-uDmDWF6sI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "l-uDmDWF6sI",
+        "videoPublishedAt": "2018-05-19T09:00:04.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/_YyazKObPFoeKs-zq367wijxby8\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLm5yTFNCcjAwTmow",
+      "snippet": {
+        "publishedAt": "2017-06-17T19:08:25.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "فيديو كوميدي..يالطيف نمس حتى بموته !",
+        "description": "#باب_الحارة \n#رمضان_يجمعنا",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nrLSBr00Nj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nrLSBr00Nj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nrLSBr00Nj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nrLSBr00Nj0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nrLSBr00Nj0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nrLSBr00Nj0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nrLSBr00Nj0",
+        "videoPublishedAt": "2017-06-17T19:08:25.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/f3kQ8IzA_UmdTg8G4VqT0rr8-wg\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLnd1WG8wU0xrZkt3",
+      "snippet": {
+        "publishedAt": "2017-06-20T00:13:44.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "جدة النمس تحاول إرجاع الذاكرة لحفيدها بطريقة كوميدية",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wuXo0SLkfKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wuXo0SLkfKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wuXo0SLkfKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wuXo0SLkfKw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wuXo0SLkfKw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wuXo0SLkfKw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wuXo0SLkfKw",
+        "videoPublishedAt": "2017-06-20T00:13:44.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/tOIyYXmjXhhFytub75IqtEm_Cu0\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLnlTcTd1ZnJadUN3",
+      "snippet": {
+        "publishedAt": "2018-02-01T09:00:05.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "النمس يتعربش عحيطان السجن 🤣 ويسلبها على أبوجودت بكذبة كبيرة🤣😂 بعد أن جنن نوري وأبوساطور باب الحارة5",
+        "description": "باب الحارة الجزء الخامس \nمسلسل سوري من إخراج مؤمن الملا وتأليف كمال مرة فكرة مروان قاووق والإشراف العام للمخرج بسام الملا، وهو تكملة للجزء الرابع الذي انتهى كما هي الحال ويشهد هذا الجزء ظهور الفنان قصي خولي بدور أبو دياب (أبو قاعود) وظهور مهيار خضور بدور أبو فيصل والفنان القدير زهير عبد الكريم بدور أبو شاكوش والعديد من الشخصيات. وكذلك أبطال المسلسل وهم: ميلاد يوسف ووائل شرف وصباح الجزائري وباقي رجال حارة الضبع وكذلك وجود مأمون بيك (فايز قزق) جاسوس الفرنساوي والشخصية المحبوبة التي أداها الفنان مصطفى الخاني وهي النمس الذي ظهر في جزئه الرابع وكذلك قام الكاتب كمال مرة بدور أبو الطيب، والعديد من الشخصيات المهمة. عرض المسلسل بتقنية عالية الجودة على العديد من القنوات العربية وحقق نجاحاً كبيراً في أرجاء الوطن العربي. تم إنتاج الجزء السادس في عام 2014 واستمر بنجاح بعد عودة العديد من ممثليه.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ySq7ufrZuCw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ySq7ufrZuCw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ySq7ufrZuCw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ySq7ufrZuCw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ySq7ufrZuCw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ySq7ufrZuCw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ySq7ufrZuCw",
+        "videoPublishedAt": "2018-02-01T09:00:05.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/sb2fE7_vFLLrKXOv0s5wjJ2VPvg\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLi1KekxQVUJsNkxR",
+      "snippet": {
+        "publishedAt": "2017-05-29T01:15:29.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "#باب_الحارة |ابو جودت يترك النمس من أجل كيلو سكر ! #رمضان_يجمعنا",
+        "description": "شاهد حلقات #باب_الحارة من هنا http://onshahid.net/60138cFsL  #رمضان_يجمعنا\n\n\nMBC1 Channel\n\nhttps://www.facebook.com/mbc1tv\nhttps://twitter.com/mbc1\nhttps://www.instagram.com/mbc1\nhttps://shahid.mbc.net/ar/channel/7892/MBC1.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-JzLPUBl6LQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-JzLPUBl6LQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-JzLPUBl6LQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-JzLPUBl6LQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-JzLPUBl6LQ",
+        "videoPublishedAt": "2017-05-29T01:15:29.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/qyCKpXgB9il3ADDCnKf2bzmc-bg\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLm8tdk1GcEJqSTNr",
+      "snippet": {
+        "publishedAt": "2017-11-29T22:30:00.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "خناقة النمس مع أبو الحكم , وتهديد النمس بنتف شوارب أبو الحكم ,  باب الحارة  الحلقة 8 مشهد 2",
+        "description": "دراما إجتماعية، تستكمل تصاعد الوتيرة الدرامية من النقطة التي توقفت عندها في الحلقة الأخيرة من الجزء الثالث، حين حاصر الفرنسيون حارة الضبع وتأهبوا لقصفها بالمدفعية واقتحامها.وتتصاعد الأحداث بعد أن تصدر القوات الفرنسية أمرا بإعتقال أبو شهاب عقيد الحارة مما يجعله يقرر الهرب، لينتقل للعيش مع الثوار ويشارك في تزويدهم بالسلاح ومساعدة فلسطين لمواجهة الإنجليزي .",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o-vMFpBjI3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o-vMFpBjI3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o-vMFpBjI3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o-vMFpBjI3k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o-vMFpBjI3k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o-vMFpBjI3k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "o-vMFpBjI3k",
+        "videoPublishedAt": "2017-11-29T22:30:00.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/2mk1jwNzqlqWKrurisr6gnqdZyE\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLktLM1Zlazc5RTNV",
+      "snippet": {
+        "publishedAt": "2017-12-31T18:07:16.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "النمس يخيف أبو الحكم ويرعبه , مسلسل باب الحارة 4    الحلقة 4   مشهد1   مصطفى الخاني",
+        "description": "دراما إجتماعية، تستكمل تصاعد الوتيرة الدرامية من النقطة التي توقفت عندها في الحلقة الأخيرة من الجزء الثالث، حين حاصر الفرنسيون حارة الضبع وتأهبوا لقصفها بالمدفعية واقتحامها.وتتصاعد الأحداث بعد أن تصدر القوات الفرنسية أمرا بإعتقال أبو شهاب عقيد الحارة مما يجعله يقرر الهرب، لينتقل للعيش مع الثوار ويشارك في تزويدهم بالسلاح ومساعدة فلسطين لمواجهة الإنجليزي .",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KK3Vek79E3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KK3Vek79E3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KK3Vek79E3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KK3Vek79E3U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KK3Vek79E3U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KK3Vek79E3U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KK3Vek79E3U",
+        "videoPublishedAt": "2017-12-31T18:07:16.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/F9qUe1hGmC4zrF66p_9qF6tWfJc\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLnhISDhSTDliX1dR",
+      "snippet": {
+        "publishedAt": "2018-02-02T09:00:05.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "النمس يحاول النصب على أبوجودت🤣 وطريقة إعطاءه المصاري بعد أن طلّع روحو 🤣😂🤣 باب الحارة 5 الحلقة 05",
+        "description": "باب الحارة الجزء الخامس \nمسلسل سوري من إخراج مؤمن الملا وتأليف كمال مرة فكرة مروان قاووق والإشراف العام للمخرج بسام الملا، وهو تكملة للجزء الرابع الذي انتهى كما هي الحال ويشهد هذا الجزء ظهور الفنان قصي خولي بدور أبو دياب (أبو قاعود) وظهور مهيار خضور بدور أبو فيصل والفنان القدير زهير عبد الكريم بدور أبو شاكوش والعديد من الشخصيات. وكذلك أبطال المسلسل وهم: ميلاد يوسف ووائل شرف وصباح الجزائري وباقي رجال حارة الضبع وكذلك وجود مأمون بيك (فايز قزق) جاسوس الفرنساوي والشخصية المحبوبة التي أداها الفنان مصطفى الخاني وهي النمس الذي ظهر في جزئه الرابع وكذلك قام الكاتب كمال مرة بدور أبو الطيب، والعديد من الشخصيات المهمة. عرض المسلسل بتقنية عالية الجودة على العديد من القنوات العربية وحقق نجاحاً كبيراً في أرجاء الوطن العربي. تم إنتاج الجزء السادس في عام 2014 واستمر بنجاح بعد عودة العديد من ممثليه.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xHH8RL9b_WQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xHH8RL9b_WQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xHH8RL9b_WQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xHH8RL9b_WQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xHH8RL9b_WQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xHH8RL9b_WQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xHH8RL9b_WQ",
+        "videoPublishedAt": "2018-02-02T09:00:05.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/qpYvCnxd5AySzaVrASJ6X-157ww\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLmNOX04xQkVpV2I0",
+      "snippet": {
+        "publishedAt": "2018-05-11T08:30:01.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "النمس :كل مابشوفك بتذكر اسم سورة بالقرأن الكريم ( المنافقون ) باب الحارة مصطفى الخاني",
+        "description": "النمس :  يارب ليش صايرة هيك الناس هالايام , بكون صغار بيلعبو مع بعض بصيرو كبار بيلعبو على بعض",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cN_N1BEiWb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cN_N1BEiWb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cN_N1BEiWb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cN_N1BEiWb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cN_N1BEiWb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cN_N1BEiWb4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cN_N1BEiWb4",
+        "videoPublishedAt": "2018-05-11T08:30:01.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/L1k40Q4nT76efmwVX4UaLeKdOKk\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLkcwNXYwOFZCTmNn",
+      "snippet": {
+        "publishedAt": "2017-11-26T23:00:00.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "النمس عندما يصبح عكيد ,   باب الحارة  الحلقة 7 مشهد 1 Mosalsal Bab Al Hara مصطفى الخاني",
+        "description": "دراما إجتماعية، تستكمل تصاعد الوتيرة الدرامية من النقطة التي توقفت عندها في الحلقة الأخيرة من الجزء الثالث، حين حاصر الفرنسيون حارة الضبع وتأهبوا لقصفها بالمدفعية واقتحامها.وتتصاعد الأحداث بعد أن تصدر القوات الفرنسية أمرا بإعتقال أبو شهاب عقيد الحارة مما يجعله يقرر الهرب، لينتقل للعيش مع الثوار ويشارك في تزويدهم بالسلاح ومساعدة فلسطين لمواجهة الإنجليزي .",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G05v08VBNcg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G05v08VBNcg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G05v08VBNcg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G05v08VBNcg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G05v08VBNcg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G05v08VBNcg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "G05v08VBNcg",
+        "videoPublishedAt": "2017-11-26T23:00:00.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/TB4JCJddMzSTAKEoWrqgaXcpXrk\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLmw4Y3hPUVdXMEFJ",
+      "snippet": {
+        "publishedAt": "2017-06-20T00:15:19.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "مواهب جدة النمس لا تنتهي في باب الحارة",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l8cxOQWW0AI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l8cxOQWW0AI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l8cxOQWW0AI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l8cxOQWW0AI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l8cxOQWW0AI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l8cxOQWW0AI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "l8cxOQWW0AI",
+        "videoPublishedAt": "2017-06-20T00:15:19.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/3p3ctaGG9774OkXqXaPh8S1pIxg\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLjlWdTcyMmZiR0dv",
+      "snippet": {
+        "publishedAt": "2017-06-13T00:15:13.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "نصيحة طبية غذائية من النمس",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Vu722fbGGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Vu722fbGGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Vu722fbGGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9Vu722fbGGo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9Vu722fbGGo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9Vu722fbGGo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9Vu722fbGGo",
+        "videoPublishedAt": "2017-06-13T00:15:13.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/E1sAlUOISqEeiWUZswU7ujHTtdc\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLnZNdDNJTFYySkJz",
+      "snippet": {
+        "publishedAt": "2018-05-20T09:00:05.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "أجمل حوار بين النمس وتنكة 😂( إذا خلص عنبك وتينك كل الناس بصيروا عدوينك ) باب الحارة 9 مصطفى الخاني",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vMt3ILV2JBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vMt3ILV2JBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vMt3ILV2JBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vMt3ILV2JBs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vMt3ILV2JBs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vMt3ILV2JBs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vMt3ILV2JBs",
+        "videoPublishedAt": "2018-05-20T09:00:05.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/rVww7R7aiBU-Gt2Z6cHQJSH1_4s\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLlRnMmZnS0haOFpn",
+      "snippet": {
+        "publishedAt": "2017-06-05T23:49:23.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "النمس يتسول بطريقة كوميدية #باب_الحارة #رمضان_يجمعنا",
+        "description": "MBC1 Channel\n\nhttps://www.facebook.com/mbc1tv\nhttps://twitter.com/mbc1\nhttps://www.instagram.com/mbc1\n http://onshahid.net/61878l83P",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tg2fgKHZ8Zg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tg2fgKHZ8Zg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tg2fgKHZ8Zg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tg2fgKHZ8Zg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tg2fgKHZ8Zg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Tg2fgKHZ8Zg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Tg2fgKHZ8Zg",
+        "videoPublishedAt": "2017-06-05T23:49:23.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/tCGKAEiz3NG7F5KFdb19jbSDUQE\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLjdWN2xZQVk2S1ZR",
+      "snippet": {
+        "publishedAt": "2017-12-05T13:54:55.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "شطارة النمس بالبيع , مسلسل باب الحارة 4 الحلقة 14 مشهد 3  مصطفى الخاني",
+        "description": "دراما إجتماعية، تستكمل تصاعد الوتيرة الدرامية من النقطة التي توقفت عندها في الحلقة الأخيرة من الجزء الثالث، حين حاصر الفرنسيون حارة الضبع وتأهبوا لقصفها بالمدفعية واقتحامها.وتتصاعد الأحداث بعد أن تصدر القوات الفرنسية أمرا بإعتقال أبو شهاب عقيد الحارة مما يجعله يقرر الهرب، لينتقل للعيش مع الثوار ويشارك في تزويدهم بالسلاح ومساعدة فلسطين لمواجهة الإنجليزي .",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7V7lYAY6KVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7V7lYAY6KVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7V7lYAY6KVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7V7lYAY6KVQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7V7lYAY6KVQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7V7lYAY6KVQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7V7lYAY6KVQ",
+        "videoPublishedAt": "2017-12-05T13:54:55.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/3BG199nHo8RydfI9FKtAkruWDII\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLjdrTlQ5NWJyYWs4",
+      "snippet": {
+        "publishedAt": "2018-01-21T10:30:00.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "استجواب ابو جودة للنمس ، والإجابات على طريقة النمس 😂🤣 ، باب الحارة  الحلقة 01 مشهد1 مصطفى الخاني",
+        "description": "باب الحارة الجزء الخامس \nمسلسل سوري من إخراج مؤمن الملا وتأليف كمال مرة فكرة مروان قاووق والإشراف العام للمخرج بسام الملا، وهو تكملة للجزء الرابع الذي انتهى كما هي الحال ويشهد هذا الجزء ظهور الفنان قصي خولي بدور أبو دياب (أبو قاعود) وظهور مهيار خضور بدور أبو فيصل والفنان القدير زهير عبد الكريم بدور أبو شاكوش والعديد من الشخصيات. وكذلك أبطال المسلسل وهم: ميلاد يوسف ووائل شرف وصباح الجزائري وباقي رجال حارة الضبع وكذلك وجود مأمون بيك (فايز قزق) جاسوس الفرنساوي والشخصية المحبوبة التي أداها الفنان مصطفى الخاني وهي النمس الذي ظهر في جزئه الرابع وكذلك قام الكاتب كمال مرة بدور أبو الطيب، والعديد من الشخصيات المهمة. عرض المسلسل بتقنية عالية الجودة على العديد من القنوات العربية وحقق نجاحاً كبيراً في أرجاء \n الوطن العربي. تم إنتاج الجزء السادس في عام 2014 واستمر بنجاح بعد عودة العديد من ممثليه.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7kNT95brak8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7kNT95brak8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7kNT95brak8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7kNT95brak8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7kNT95brak8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7kNT95brak8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7kNT95brak8",
+        "videoPublishedAt": "2018-01-21T10:30:00.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/VTQ-CM1vKy4ouZFPhwzdHuJSDow\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLlVTeUI0X0ltZWJN",
+      "snippet": {
+        "publishedAt": "2017-12-24T10:00:04.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "النمس عندما يلبس و يصبح نمس بيك , مسلسل باب الحارة  الحلقة 21 مشهد 3 مصطفى الخاني",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/USyB4_ImebM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/USyB4_ImebM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/USyB4_ImebM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/USyB4_ImebM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/USyB4_ImebM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "USyB4_ImebM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "USyB4_ImebM",
+        "videoPublishedAt": "2017-12-24T10:00:04.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/l7AwrAHfQ66C_xTIenbV9P_i5o4\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLjVURV9JeElBNU9Z",
+      "snippet": {
+        "publishedAt": "2017-11-28T11:00:01.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "النمس يتمرجل على أبو النار بحكاية كاذبة ,  باب الحارة  الحلقة 9 مشهد 1  مصطفى الخاني",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5TE_IxIA5OY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5TE_IxIA5OY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5TE_IxIA5OY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5TE_IxIA5OY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5TE_IxIA5OY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5TE_IxIA5OY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "5TE_IxIA5OY",
+        "videoPublishedAt": "2017-11-28T11:00:01.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/WDAJGOSQ8X1I5EU5SqiM7-hx26c\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLmxGUEFSZ0h4MkxR",
+      "snippet": {
+        "publishedAt": "2018-04-25T10:30:00.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "النمس : الدنيا متل النورية كل شوي بترقص لواحد شوية , باب الحارة 9 مشهد ١ حلقة 3 مصطفى الخاني",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lFPARgHx2LQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lFPARgHx2LQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lFPARgHx2LQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lFPARgHx2LQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lFPARgHx2LQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lFPARgHx2LQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lFPARgHx2LQ",
+        "videoPublishedAt": "2018-04-25T10:30:00.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/EUrsCIZ0oganefkAp4lG86kfRTI\"",
+      "id": "UkRRTU9CTEMtMzVIVVVFLi12SVQyeTdUal9j",
+      "snippet": {
+        "publishedAt": "2018-01-24T10:30:00.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "النمس يستفذ أبو جودت ويُفقده أعصابه 😂 باب الحارة5 الحلقة 03 مشهد1 Mosalsal Bab Al Hara مصطفى الخاني",
+        "description": "باب الحارة الجزء الخامس \nمسلسل سوري من إخراج مؤمن الملا وتأليف كمال مرة فكرة مروان قاووق والإشراف العام للمخرج بسام الملا، وهو تكملة للجزء الرابع الذي انتهى كما هي الحال ويشهد هذا الجزء ظهور الفنان قصي خولي بدور أبو دياب (أبو قاعود) وظهور مهيار خضور بدور أبو فيصل والفنان القدير زهير عبد الكريم بدور أبو شاكوش والعديد من الشخصيات. وكذلك أبطال المسلسل وهم: ميلاد يوسف ووائل شرف وصباح الجزائري وباقي رجال حارة الضبع وكذلك وجود مأمون بيك (فايز قزق) جاسوس الفرنساوي والشخصية المحبوبة التي أداها الفنان مصطفى الخاني وهي النمس الذي ظهر في جزئه الرابع وكذلك قام الكاتب كمال مرة بدور أبو الطيب، والعديد من الشخصيات المهمة. عرض المسلسل بتقنية عالية الجودة على العديد من القنوات العربية وحقق نجاحاً كبيراً في أرجاء الوطن العربي. تم إنتاج الجزء السادس في عام 2014 واستمر بنجاح بعد عودة العديد من ممثليه.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-vIT2y7Tj_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-vIT2y7Tj_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-vIT2y7Tj_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-vIT2y7Tj_c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-vIT2y7Tj_c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube Spotlight",
+        "playlistId": "RDQMOBLC-35HUUE",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-vIT2y7Tj_c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-vIT2y7Tj_c",
+        "videoPublishedAt": "2018-01-24T10:30:00.000Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ]
+}
